@@ -23,6 +23,12 @@ ecmascript-runtime@0.2.10
 ejson@1.0.11
 es5-shim@4.5.10
 fastclick@1.0.11
+gadicc:babel-compiler-babelrc@6.6.4_5
+gadicc:ecmascript-hot@2.0.0-beta.3
+gadicc:hot@2.0.0-beta.1
+gadicc:hot-build@2.0.0-beta.3
+gadicc:modules-runtime-hot@0.6.3_8
+gadicc:package-json@1.0.4
 geojson-utils@1.0.8
 hot-code-push@1.0.4
 html-tools@1.0.9
@@ -39,6 +45,7 @@ meteor@1.1.14
 meteor-base@1.0.4
 meteorhacks:fast-render@2.14.0
 meteorhacks:inject-data@2.0.0
+meteorhacks:inject-initial@1.0.4
 meteorhacks:meteorx@1.4.1
 meteorhacks:picker@1.0.3
 minifier-css@1.1.11
@@ -53,6 +60,7 @@ mongo-id@1.0.4
 npm-mongo@1.4.43
 observe-sequence@1.0.11
 ordered-dict@1.0.7
+package-version-parser@3.0.8
 promise@0.6.7
 random@1.0.9
 rate-limit@1.0.4
@@ -61,11 +69,14 @@ reactive-var@1.0.9
 reload@1.1.8
 retry@1.0.7
 routepolicy@1.0.10
+sanjo:meteor-files-helpers@1.2.0_1
+sanjo:meteor-version@1.0.0
 service-configuration@1.0.9
 spacebars@1.0.11
 spacebars-compiler@1.0.11
 standard-minifier-css@1.0.6
 standard-minifier-js@1.0.6
+tmeasday:check-npm-versions@0.3.1
 tracker@1.0.13
 ui@1.0.11
 underscore@1.0.8
