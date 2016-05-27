@@ -13,3 +13,13 @@ FlowRouter.route('/', {
     });
   },
 });
+
+FlowRouter.route('/:lang', {
+  name: 'hello',
+  action({ lang }) {
+    console.log(lang);
+    mount(Layout, {
+      content: () => (<Text />),
+    });
+  },
+});
